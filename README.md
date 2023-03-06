@@ -2,4 +2,4 @@
 
 A clone that mimicks the twitter app on iOS build using the SwiftUI framework.
 
-https://user-images.githubusercontent.com/52855516/222663413-046bb2fc-a88b-432d-ab7b-2e7e4d6db298.gif
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/52855516/222663869-f15005c9-2882-4405-a122-174fea39677d.gif)
