@@ -8,6 +8,11 @@
 import SwiftUI
 
 extension View {
+    
+    func cornerRadius(_ radius: CGFloat, corners: UIRectCorner) -> some View {
+        clipShape( RoundedCorners(radius: radius, corners: corners) )
+    }
+    
     func hideKeyboard() {
         let resign = #selector(UIResponder.resignFirstResponder)
         UIApplication.shared.sendAction(resign, to: nil, from: nil, for: nil)

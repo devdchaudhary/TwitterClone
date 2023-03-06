@@ -15,6 +15,7 @@
 		B66D7CFA29B04F39000FCFC5 /* TrendingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66D7CF929B04F39000FCFC5 /* TrendingModel.swift */; };
 		B66D7CFC29B05A20000FCFC5 /* SpacesItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66D7CFB29B05A20000FCFC5 /* SpacesItemView.swift */; };
 		B66D7CFE29B05A78000FCFC5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66D7CFD29B05A78000FCFC5 /* Model.swift */; };
+		B68C53CA29B5832A005C90AF /* BottomSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68C53C929B5832A005C90AF /* BottomSheetView.swift */; };
 		B6989B5829ABB68800BC3ECC /* SlidingTabViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6989B5729ABB68800BC3ECC /* SlidingTabViewApp.swift */; };
 		B6989B5A29ABB68800BC3ECC /* MasterFeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6989B5929ABB68800BC3ECC /* MasterFeedView.swift */; };
 		B6989B5C29ABB68900BC3ECC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6989B5B29ABB68900BC3ECC /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 		B66D7CF929B04F39000FCFC5 /* TrendingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingModel.swift; sourceTree = "<group>"; };
 		B66D7CFB29B05A20000FCFC5 /* SpacesItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacesItemView.swift; sourceTree = "<group>"; };
 		B66D7CFD29B05A78000FCFC5 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		B68C53C929B5832A005C90AF /* BottomSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetView.swift; sourceTree = "<group>"; };
 		B6989B5429ABB68800BC3ECC /* SlidingTabView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlidingTabView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6989B5729ABB68800BC3ECC /* SlidingTabViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingTabViewApp.swift; sourceTree = "<group>"; };
 		B6989B5929ABB68800BC3ECC /* MasterFeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterFeedView.swift; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				B6F010BB29AEC41A0080F269 /* SpacesView.swift */,
+				B68C53C929B5832A005C90AF /* BottomSheetView.swift */,
 				B66D7CFB29B05A20000FCFC5 /* SpacesItemView.swift */,
 				B66D7CFD29B05A78000FCFC5 /* Model.swift */,
 			);
@@ -293,6 +296,7 @@
 				B6F010BC29AEC41A0080F269 /* SpacesView.swift in Sources */,
 				B6F010B429AEA4BF0080F269 /* Extensions.swift in Sources */,
 				B6989B5A29ABB68800BC3ECC /* MasterFeedView.swift in Sources */,
+				B68C53CA29B5832A005C90AF /* BottomSheetView.swift in Sources */,
 				B6F0109429AE8EC00080F269 /* MasterView.swift in Sources */,
 				B6F0109029AE8C3E0080F269 /* FeedModel.swift in Sources */,
 				B6F010C029AEC4370080F269 /* MessagesView.swift in Sources */,
